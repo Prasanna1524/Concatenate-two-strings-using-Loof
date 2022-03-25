@@ -1,4 +1,4 @@
-# Concatenate-two-strings-using-Loof
+# Concatenate-two-strings-using-Loop
 
         #include<stdio.h>
 
